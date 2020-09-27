@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+body {font-family: 'Black Han Sans', sans-serif;}
+.black {width: 650px; height: 650px; background-color: black; position: absolute; }
+.white1 {width: 20%; height: 27%; background-color: white; position: absolute; top: 5px; left: 5px; }
+.red {width: 75%; height: 70%; background-color: red; position: absolute; top: 5px; right: 5px; }
+.white2 {width: 20%; height: 38%; background-color: white; position: absolute; left: 5px; top: 213px; }
+.blue {width: 20%; height: 25%; background-color: blue; position: absolute; bottom: 5px; left: 5px; }
+.white3 {width: 65%; height: 25%; background-color: white; position: absolute; bottom: 5px; left: 157.5px; }
+.white4 {width: 8%; height: 10%; background-color: white; position: absolute; bottom: 102.5px; right: 5px; }
+.yellow {width: 8%; height: 10%; background-color: yellow; position: absolute; bottom: 5px; right: 5px; }
